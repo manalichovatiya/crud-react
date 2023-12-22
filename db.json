@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "done",
+      "author": "wee`",
+      "id": 2
+    },
+    {
+      "title": "manalioo",
+      "author": "weeasd",
+      "id": 4
+    },
+    {
+      "title": "chovatiya",
+      "author": "weeasd",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
