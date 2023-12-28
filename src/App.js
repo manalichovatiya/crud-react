@@ -29,7 +29,6 @@ function App() {
   }
 
   const delete_data = (id, index) => {
-    console.log(id, index, "id and index from delete");
     deleteApi(base_url, deleteData1, id).then((res) => {
       setdata(data.filter((e) => e.id !== id)) // stopped from this error
     })
